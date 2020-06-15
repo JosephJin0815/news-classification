@@ -1,5 +1,4 @@
-# news-classification
-## A news reference system. 
+# A news reference system. 
 <ol>
   <li>News classification model based on LSTM.</li>
   <li>User preference based on time-decay model.</li>
